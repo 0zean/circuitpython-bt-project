@@ -1,4 +1,4 @@
-# CircuitPython BLE
+# CircuitPython BLE Project
 ---
 
 CircuitPython code for the `Teyleten Robot Pro Micro NRF52840` board. For a bluetooth media controller.
